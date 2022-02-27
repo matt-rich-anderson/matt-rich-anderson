@@ -1,4 +1,6 @@
-### Hi there 👋
+### Here is some of the stuff I've been working on ...
+- I just completed my front-end capstone project Property Goat 🐐, a residential property managment app designed for small scal property managers. I leveraged my React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <!--
 **matt-rich-anderson/matt-rich-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
