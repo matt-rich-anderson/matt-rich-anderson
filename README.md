@@ -1,6 +1,10 @@
 ### Here is what's new with me...
-- I just completed my front-end capstone project Property Goat 🐐, a residential property managment app designed for small scal property managers. I leveraged my React, Javascript, and JSON server knowledge to create it. See it in my 'Pinned' section. 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+-----------------------------------------------------------------
+
+- I just completed my front-end capstone project Property Goat 🐐, a residential property managment app designed for small scal property managers. I leveraged my React, Javascript, and JSON server knowledge to create it. See it in my 'Pinned' section.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 <!--
