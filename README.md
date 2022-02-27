@@ -3,8 +3,9 @@
 -----------------------------------------------------------------
 
 - I just completed my front-end capstone project Property Goat 🐐, a residential property managment app designed for small scal property managers. I leveraged my React, Javascript, and JSON server knowledge to create it. See it in my 'Pinned' section.
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- The back-end portion of my bootcamp has started and I'm just scratching the surface of C#
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
 
 <!--
