@@ -1,6 +1,6 @@
 ### Here is what's new with me...
 
------------------------------------------------------------------
+---
 
 - Completed my front-end capstone project **Property Goat** 🐐, a residential property managment app designed for small scal property managers. Leveraged my React, Javascript, and JSON server knowledge to create it. See it in the 'Pinned' section.
 
